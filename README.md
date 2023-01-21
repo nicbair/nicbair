@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TonyLov
+- 👋 Hi, I’m @nicbair 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python, Go, TypeScript, Java, C#
 - 💞️ I’m looking to collaborate on open source project
